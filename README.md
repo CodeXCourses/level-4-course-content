@@ -24,7 +24,7 @@
 - **Day 4:** Adding validation, error handling, and testing API endpoints.
 - **Day 5:** Deploying the backend and preparing for frontend integration.
 
-#### **Week 4: AWS - Amazon S3 & Cloud Storage**
+#### **Week 4: TypeScript**
 
 - **Day 1:** Introduction to AWS S3 and cloud storage concepts.
 - **Day 2:** Setting up an S3 bucket and managing permissions.
@@ -32,7 +32,7 @@
 - **Day 4:** Securing S3 with IAM roles and access control.
 - **Day 5:** Best practices for optimizing cost and performance in S3.
 
-#### **Week 5: AWS - CloudFlare & CDN Optimization**
+#### **Week 5: AWS - Amazon S3 & CloudFront**
 
 - **Day 1:** Introduction to CloudFlare and CDN fundamentals.
 - **Day 2:** Configuring a CloudFlare CDN for a website.
