@@ -26,19 +26,19 @@
 
 #### **Week 4: TypeScript**
 
-- **Day 1:** Introduction to AWS S3 and cloud storage concepts.
-- **Day 2:** Setting up an S3 bucket and managing permissions.
-- **Day 3:** Uploading, retrieving, and managing objects in S3.
-- **Day 4:** Securing S3 with IAM roles and access control.
-- **Day 5:** Best practices for optimizing cost and performance in S3.
+- **Day 1:** Introduction to TypeScript.
+- **Day 2:** Setting up TypeScript.
+- **Day 3:** Declaring and using primitive types - string, number, and boolean.
+- **Day 4:** Declaring and using custom types - object and array.
+- **Day 5:** Declaring and using function return types.
 
 #### **Week 5: AWS - Amazon S3 & CloudFront**
 
-- **Day 1:** Introduction to CloudFlare and CDN fundamentals.
-- **Day 2:** Configuring a CloudFlare CDN for a website.
-- **Day 3:** Enhancing website performance with caching strategies.
-- **Day 4:** Implementing CloudFlare security features (DDoS protection, rate limiting).
-- **Day 5:** Troubleshooting CloudFlare integration and reviewing best practices.
+- **Day 1:** Introduction to AWS S3 and cloud storage concepts.
+- **Day 2:** Configuring an S3 bucket and uploading objects.
+- **Day 3:** Introduction to Cloudfront and CDN fundamentals.
+- **Day 4:** Configuring Cloudfront for a SPA website.
+- **Day 5:** Deploying a SPA website to AWS S3 and Cloudflare.
 
 #### **Week 6: AWS - API Gateway & Lambda Functions**
 
